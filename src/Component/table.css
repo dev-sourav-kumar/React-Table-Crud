@@ -1,0 +1,75 @@
+.middle{
+	margin:25px;
+}
+.gutter{
+	margin: 10px, 5px;
+}
+.message{
+	text-align: center;
+	padding:30px;
+	font-weight: bold;
+	font-size:15px;
+	color:#dee2e6;
+}
+.icon{
+	margin-right: 5px;
+	margin-top:7px;
+	cursor: pointer;
+}
+.modal-close{
+	margin-top: -5px;
+}
+.float-rt{
+	float:right;
+}
+.gap{
+	margin-right:8px;
+}
+.modal-head-title{
+	padding: 11px;
+	font-weight: bold;
+	font-size:12px;
+	border-bottom:1px solid #dee2e6;
+}
+.modal-footer-title{
+	padding: 7px;
+	font-size:13px;
+	border-top:1px solid #dee2e6;
+}
+.fnt-xs{
+	font-size: 11px !important;
+}
+
+.rTable {
+  	display: table;
+  	width: 100%;
+}
+.rTableRow {
+  	display: table-row;
+}
+.rHover:hover{
+	cursor: pointer;
+	background-color:#e0f3f9;
+}
+
+.rTableCell, .rTableHead {
+  	display: table-cell;
+  	padding: 3px 10px;
+  	border: 1px solid lightblue;
+	border-top:none;
+	border-left:none;
+}
+.rTableHeading {
+  	display: table-header-group;
+  	background-color: #d5f0f9;
+  	font-weight: bold;
+}
+.rTableFoot {
+  	font-weight: bold;
+  	background-color: #d5f0f9;
+	align-content: center;
+	text-align: center;
+}
+.rTableBody {
+  	display: table-row-group;
+}
